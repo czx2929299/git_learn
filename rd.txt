@@ -5,4 +5,8 @@ hello world!!
 
 qqqqqqqqqqqqq
 rrr
+<<<<<<< Updated upstream
 ttttttt
+=======
+yyyyyyyyyyy
+>>>>>>> Stashed changes
